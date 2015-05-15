@@ -1,0 +1,21 @@
+{
+  "name": "IT4U",
+  "version": "0.0.1",
+  "description": "Steklo website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "heroku"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "jul",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.3"
+  }
+}
