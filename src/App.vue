@@ -163,7 +163,7 @@
         profileBtn: {title: 'Profile', icon: 'mdi-account', url: '/user/profile'},
         adminBtn: {title: 'Admin', icon: 'mdi-security', url: '/admin'},
         loginBtn: {title: 'Sign In', icon: 'mdi-key', url: '/user/login'},
-        registerBtn: {title: 'Registration', icon: 'mdi-account-plus', url: '/user/register'}
+        registerBtn: {title: 'Sign Up', icon: 'mdi-account-plus', url: '/user/register'}
       }
     },
     computed: {
